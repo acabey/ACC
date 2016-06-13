@@ -1,0 +1,75 @@
+All supported operators
+- Arithmetic
+- Basic assignment
+  - a = b
+- Addition
+ - a+b
+- Subtraction
+ - a-b
+- Unary plus
+ - a+
+- Unary minus
+ - a-
+- Multiplication
+- Division
+- Modulo
+ - A % b
+- Increment
+ - A++
+ - ++a
+- Decrement
+ - a--
+ - --a
+Boolean logic
+- Equal to
+ - ==
+- Not equal to
+ - !=
+- Greater than
+ - >
+- Less than
+ - <
+- Greater than or equal to
+ - >=
+- Less than or equal to
+ - <=
+Logical operators
+- Logical negation (NOT)
+ - !a
+- Logical AND
+ - A && b
+- Logical OR
+ - A || b
+Bitwise operators
+- Bitwise NOT
+ - ~a
+- Bitwise AND
+ - a & b
+- Bitwise OR
+ - a | b
+- Bitwise XOR
+ - a ^ b
+- Bitwise left shift
+ - a << b
+- Bitwise right shift
+ - a >> b
+Compound assignment operators
+- Addition assignment
+- Subtraction assignment
+- Multiplication assignment
+- Division assignment
+- Modulo assignment
+- Bitwise left shift assignment
+- Bitwise right shift assignment
+- Member and pointer operators
+- Subscript
+ - A[b]
+- Indirection ("object pointed to by a")
+ - *a
+Other operators
+- Function call
+ - a(b,c)
+- User-defined literals
+ - "A"
+- Cast
+ - (int) ‘a’;
